@@ -1,7 +1,7 @@
 {
-  "name": "AI Pioneers",
+  "name": "law_bud",
   "version": "0.1.0",
-  "description": "AI Pioneers",
+  "description": "LawBud",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gituhb.com/AIPioneers"
+    "url": "https://github.com/SilverBtc/ai-pioneers"
   },
   "keywords": [
     "nextjs",
@@ -27,6 +27,7 @@
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
     "@tailwindcss/aspect-ratio": "^0.2.1",
+    "cross-env": "^7.0.3",
     "next": "^11.1.0",
     "next-themes": "^0.0.14",
     "react": "^17.0.1",
