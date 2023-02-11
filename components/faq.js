@@ -35,21 +35,21 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Qu'est-ce que LawBud?",
+    answer: "LawBud est un assistant virtuel en droit qui aide les avocats, les juges et les citoyens à naviguer dans les complexités de la loi. Il offre des conseils juridiques précis et facilite l'accès à la justice pour tous.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Comment fonctionne LawBud?",
+    answer: "LawBud utilise une combinaison de traitement du langage naturel, de reconnaissance de la voix et de l'apprentissage en profondeur pour comprendre et interagir avec les utilisateurs. Il est capable de répondre aux questions sur des sujets complexes de droit et de guider les utilisateurs à travers les démarches légales.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "Est-ce que LawBud est gratuit?",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Oui, LawBud est entièrement gratuit pour les utilisateurs. Nous croyons en l'accès équitable à la justice pour tous et ne voulons pas que des coûts élevés soient un frein pour les personnes qui cherchent de l'aide juridique.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "LawBud est-il fiable?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Oui, LawBud est fiable. Nous travaillons sans relâche pour développer un système d'IA avancé qui fournit des conseils juridiques précis et fiables. Cependant, il est important de noter que LawBud ne doit pas être utilisé comme un remplacement pour un avocat qualifié et que les utilisateurs devraient toujours consulter un avocat pour des conseils juridiques détaillés.",
   },
 ];

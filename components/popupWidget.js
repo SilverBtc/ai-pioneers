@@ -121,12 +121,12 @@ export default function PopupWidget() {
                       />
                       <input
                         type="hidden"
-                        value={`${userName} sent a message from Nextly`}
+                        value={`${userName} sent a message from LawBud`}
                         {...register("subject")}
                       />
                       <input
                         type="hidden"
-                        value="Nextly Template"
+                        value="LawBud"
                         {...register("from_name")}
                       />
                       <input

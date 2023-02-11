@@ -12,9 +12,9 @@ export default function Testimonials() {
       <div className="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-            <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+            <p className="text-xl leading-normal ">
+            LawBud est un assistant virtuel en droit vraiment <Mark>impressionnant.</Mark>
+              Il a répondu à toutes mes questions sur un sujet complexe de manière claire et concise. Je suis vraiment impressionné par la précision de ses réponses et la simplicité de son interface.
             </p>
 
             <Avatar
@@ -26,23 +26,22 @@ export default function Testimonials() {
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-            <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+            <p className="text-xl leading-normal ">
+            En tant qu' <Mark>avocat</Mark>
+               débutant, j'ai trouvé LawBud très utile pour comprendre les concepts complexes du droit. L'assistant virtuel est rapide, fiable et offre des réponses précises. Je l'utilise régulièrement pour aider mes clients et je suis très satisfait de ses performances.
             </p>
 
             <Avatar
               image={userTwoImg}
               name="Dylan Ambrose"
-              title="Lead marketer at Netflix"
+              title="Avocat"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-            <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I've seen. I
-              would use this for anything.
+            <p className="text-xl leading-normal ">
+            J'ai finalement trouvé la <Mark>solution</Mark> que je cherchais pour naviguer dans les complexités de la loi grâce à LawBud. Cet assistant virtuel en droit est facile à utiliser et offre des conseils juridiques précis en temps réel. Je le recommande fortement à tous ceux qui cherchent un accès équitable à la justice.
             </p>
 
             <Avatar
